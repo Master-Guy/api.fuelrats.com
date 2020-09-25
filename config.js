@@ -71,3 +71,4 @@ module.exports = {
     'path': process.env.FRAPI_DROPBOX_PATH || '/Apps/Click and Drop'
   }
 }
+ 
